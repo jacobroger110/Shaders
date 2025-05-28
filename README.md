@@ -15,5 +15,10 @@ A basic fragment shader that blends animated color changes relative to both mous
 - Normalized screen coordinates
 - Time-based color oscillation
 - Interactive response to mouse position
+
+## `AnimatedRGBMouseGlow.frag`
+
+**Created using:** [The Book of Shaders Editor](http://editor.thebookofshaders.com)
  
- 
+ A GLSL fragment shader that renders a dynamic RGB gradient
+ background with a pulsing red glow centered on the mouse position.
